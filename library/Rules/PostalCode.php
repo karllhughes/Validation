@@ -9,7 +9,6 @@
  * file that was distributed with this source code.
  */
 
-
 namespace Respect\Validation\Rules;
 
 use Respect\Validation\Exceptions\ComponentException;
